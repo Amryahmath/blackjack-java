@@ -1,6 +1,4 @@
 
-
-markdown
 # Blackjack Card Game in Java  
 
 ## 🎲 Overview  
